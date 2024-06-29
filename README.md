@@ -10,7 +10,7 @@
 
 ###
 
-<h6 align="left">📚 Currently a Final Year Computer Science Student<br>🎲 I'm currently learning Dev Ops<br>🎯 Goals: Keep learning use thing</h6>
+<h6 align="left">📚 Currently a Final Year Computer Science Student<br>🎲 I'm currently learning Dev Ops<br>🎯 Goals: Keep learning use thing<be> I'm Currently Working on Ecommerce platform frontend and Backend</h6>
 
 ###
 
